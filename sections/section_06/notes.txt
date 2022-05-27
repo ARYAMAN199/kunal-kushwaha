@@ -1,0 +1,18 @@
+13-MARCH-2020
+
+Notes
+
+- watched videos 66, 67, 68, 69, 70, 72, 73, 75, 78, and 79 at 2x speed on iPad from gym
+- watched videos 81 and 82 at 2x speed on MacBook at home
+- did not complete this section or any of the exercises yet
+
+25-MARCH-2020
+
+- downloaded source files for bootstrap-4.3.1
+- initialized local Bootstrap project and completed exercises in section 6
+
+29-MARCH-2020
+
+- refactored and renamed boostrap_local project to tindog_bootstrap, including the boilerplate files from lesson 71
+- completed all bootstrap exercises and Challenge 1 now ready to move on to exercises in section 7
+- Section 6 100% complete

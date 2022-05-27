@@ -1,0 +1,112 @@
+29-MAY-2020
+
+Notes
+
+- create account on codesandbox.io for challenges
+- watched videos and completed coding challenges in lessons 418, 419, 420, 421, 422, 423 and 424
+
+30-MAY-2020
+
+Notes
+
+- complete coding exercises in lesson 425
+  https://codesandbox.io/s/jsx-attributes-and-styling-4mzhk?file=/src/index.js:105-130
+
+- complete coding exercises in lesson 426
+  https://codesandbox.io/s/inline-styling-in-jsx-9v1nw?file=/src/index.js
+
+- completed coding exercise in lesson 427
+  https://codesandbox.io/s/react-styling-practice-q3qt5?file=/src/index.js
+
+- completed coding exercise in lesson 428
+  https://codesandbox.io/s/react-components-9ejtw?file=/src/List.jsx
+
+31-MAY-2020
+
+Notes
+
+- completed coding exercise in lesson 429
+  https://codesandbox.io/s/react-components-practice-vmcq8?file=/src/components/Heading.jsx
+
+- completed import/export exercises in lesson 430
+  https://codesandbox.io/s/es6-importexport-modules-y0nhm?file=/src/index.js
+
+- completed import/export challenge in lesson 431
+  https://codesandbox.io/s/es6-importexport-practice-nqn9f
+
+- watched lessons 432, 433 regarding local React environment for PC and Mac (VSCode)
+
+- completed Keeper App Project - Part 1 Challenge from lesson 434 in codesandox
+  https://codesandbox.io/s/keeper-app-part-1-starting-27txi?file=/src/components/Footer.jsx
+
+- verified app by compiling and running locally then comparing to lesson 435
+
+- completed exercises in lesson 436
+  https://codesandbox.io/s/react-props-u40hm?file=/src/index.js
+
+- completed practice challenge in lesson 437
+  https://codesandbox.io/s/react-props-practice-th3mo?file=/src/components/Card.jsx
+
+01-JUNE-2020
+
+Notes
+
+- completed coding exercises in lessons 438, 439, 440, 441, and 442
+
+  Lesson 438: https://codesandbox.io/s/react-devtools-evrjs
+  Lesson 439: https://codesandbox.io/s/mapping-components-dx95l
+  Lesson 440: https://codesandbox.io/s/mapping-components-practice-tgfsm
+  Lesson 441: https://codesandbox.io/s/mapfilterreduce-2rf3i
+  Lesson 442: https://codesandbox.io/s/es6-arrow-functions-1tzwk
+
+- completed coding exercises in lessons 443, 444, and 445
+
+  Lesson 443: https://codesandbox.io/s/keeper-app-part-2-starting-b33r8?file=/src/components/App.js
+  Lesson 444: https://codesandbox.io/s/conditional-rendering-m2jqx
+  Lesson 445: https://codesandbox.io/s/conditional-rendering-practice-tvcit
+
+- watched lesson 446
+
+02-JUNE-2020
+
+Notes
+
+- completed coding exercises in lessons 447, 448, 449, 450, 451, 452
+
+  Lesson 447: https://codesandbox.io/s/usestate-hook-c2ph5
+  Lesson 448: https://codesandbox.io/s/usestate-hook-practice-ie189
+  Lesson 449, 450: https://codesandbox.io/s/es6-destructuring-xzewt
+  Lesson 451: https://codesandbox.io/s/event-handling-in-react-xc5uz
+  Lesson 452: https://codesandbox.io/s/react-forms-x38lp
+
+03-JUNE-2020
+
+Notes
+
+ - watched lessons 453-458 and completed challenges in codesandbox
+
+  Lesson 454: https://codesandbox.io/s/changing-complex-state-9grt9
+  Lesson 455: https://codesandbox.io/s/changing-complex-state-practice-87cxz
+  Lesson 456: https://codesandbox.io/s/es6-spread-operator-kb6x4
+  Lesson 457: https://codesandbox.io/s/es6-spread-operator-practice-dghz3
+  Lesson 458: https://codesandbox.io/s/managing-a-component-tree-znv10
+
+04-JUNE-2020
+
+Notes
+
+ - watched lessons 459-462 to complete section 33
+
+  Lesson 459: https://codesandbox.io/s/keeper-part-3-starting-rjcm7?file=/src/components/CreateArea.jsx
+  Lesson 460: https://codesandbox.io/s/using-pre-built-react-components-1yodb?file=/src/components/Note.jsx
+  Lesson 461: https://codesandbox.io/s/using-pre-built-react-components-6vvz5
+
+- downloaded finished Keeper app in codesandbox to begin final capstone project 
+
+05-JUNE-2020
+
+Notes
+
+- combined keeper_react and secrets_auth projects into single reactjs/nodejs/mongo app and deployed to Heroko
+- next step is to create README file to describe capstone and to add user authentication to keeper notes
+

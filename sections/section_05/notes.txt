@@ -1,0 +1,29 @@
+11-MARCH-2020
+
+Notes
+
+- created a favico on favicon.cc from my gravatar image which I poached from Github
+- installed pesticide chrome extension from pesticide.io
+- watched videos 43, 44, 45, 46, 47, 49, and 50 at 2x speed on Macbook from home
+- did not complete this section, stopped at "dark art of CSS centering"
+
+12-MARCH-2020
+
+Notes
+
+- watched videos 51, 52, 54, 55, 59, and 60 at 2x speed on iPad from gym
+- skipped font challenges 1, 2 and 3; will come back to those when I do all the exercises
+- linked brainvat Github repo for this course to slack
+
+13-MARCH-2020
+
+Notes
+
+- watched videos 62 and 64 at 2x speed on iPad from gym
+- still need to go back and complete the website exercise and CSS challenge
+
+23-MARCH-2020
+
+- completed lesson 52 on font styling
+- updated professional web site project with Google fonts
+- completed all font and styling exercises for section 5

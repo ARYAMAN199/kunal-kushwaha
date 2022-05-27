@@ -1,0 +1,32 @@
+21-MAY-2020
+
+Notes
+
+- watched lessons 357, 358, 359, 360, and 361
+
+24-MAY-2020
+
+Notes
+
+- copied from todolist_ejs to start project
+- refactored todolist.js singleton to use mongodb backend
+- refactored mongodb connection string to allow for remote mongo atlas
+- configured and pushed to heroku with array backend for now
+
+  git subtree push --prefix projects/todolist_mongoose heroku-todolist master
+
+25-MAY-2020
+
+Notes
+
+- implement task delete functionality in singleton and ejs templates
+- implement custom list capability (different methodology than shown in Angela's course in order to make it easier to switch back and forth between array-based and mongo-based backends)
+- implement navigation system for custom lists
+
+26-MAY-2020
+
+Notes
+
+- finally figured out why mongoose connection string wasn't working for MongoDB atlas; needed to use Node.js connection string for 2.2.12 or later
+- fully tested publishing todolist app to heroku using array and mongodb atlas backends; works locally for array, mongodb-community, and mongodb atlas backends
+
